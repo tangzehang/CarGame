@@ -1,0 +1,34 @@
+{
+  "autoGenerateExmlsList": true,
+  "exmls": [
+    "resource/eui_skins/ButtonSkin.exml",
+    "resource/eui_skins/CarSkin.exml",
+    "resource/eui_skins/CarSteeringSkin.exml",
+    "resource/eui_skins/CheckBoxSkin.exml",
+    "resource/eui_skins/ForwardButtonSkin.exml",
+    "resource/eui_skins/HScrollBarSkin.exml",
+    "resource/eui_skins/HSliderSkin.exml",
+    "resource/eui_skins/ItemRendererSkin.exml",
+    "resource/eui_skins/PanelSkin.exml",
+    "resource/eui_skins/ProgressBarSkin.exml",
+    "resource/eui_skins/RadioButtonSkin.exml",
+    "resource/eui_skins/RoadSkin.exml",
+    "resource/eui_skins/ScrollerSkin.exml",
+    "resource/eui_skins/StopButtonSkin.exml",
+    "resource/eui_skins/SuccessSkin.exml",
+    "resource/eui_skins/TextInputSkin.exml",
+    "resource/eui_skins/ToggleSwitchSkin.exml",
+    "resource/eui_skins/VScrollBarSkin.exml",
+    "resource/eui_skins/VSliderSkin.exml",
+    "resource/eui_skins/WarningSkin.exml"
+  ],
+  "skins": {
+    "Game.CarSkin": "resource/eui_skins/CarSkin.exml",
+    "Game.CarSteeringSkin": "resource/eui_skins/SteeringSkin.exml",
+    "Game.ForwardButtonSkin": "resource/eui_skins/ForwardButtonSkin.exml",
+    "Game.RoadSkin": "resource/eui_skins/RoadSkin.exml",
+    "Game.StopButtonSkin": "resource/eui_skins/StopButtonSkin.exml",
+    "Game.SuccessSkin": "resource/eui_skins/SuccessSkin.exml",
+    "Game.WarningSkin": "resource/eui_skins/WarningSkin.exml"
+  }
+}

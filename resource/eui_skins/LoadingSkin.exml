@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="Game.LoadingSkin" width="480" height="800" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Component id="moviePanel" width="400" height="700" x="15" y="-10"/>
+	<e:Image id="bardark" height="25" width="282" y="590"  horizontalCenter="0" source="bardark"/>
+	<e:Image id="barlight" width="282" y="590" height="25" source="barbright" x="99" fillMode="scale" scale9Grid="14,7,229,9"/>
+</e:Skin>

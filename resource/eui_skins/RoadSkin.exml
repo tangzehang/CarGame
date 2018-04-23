@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="Game.RoadSkin" width="480" height="800" xmlns:e="http://ns.egret.com/eui">
+	<e:Image id="background" source="background4" x="0" y="0" width="480" height="800"/>
+</e:Skin>

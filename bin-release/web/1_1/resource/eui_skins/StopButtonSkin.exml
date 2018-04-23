@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="Game.StopButtonSkin" states="up,down,disabled" minHeight="85" minWidth="85" xmlns:e="http://ns.egret.com/eui">
+	<e:Image width="100%" height="100%" alpha.disabled="0.5"
+	         source="stop"
+	         source.down="stop_down"
+	         source.disabled="stop_disabled" scale9Grid="1,3,4,3"/>
+	<e:Label id="labelDisplay" top="8" bottom="8" left="8" right="8"
+	         size="20" fontFamily="Tahoma 'Microsoft Yahei'"
+	         textColor="0xFFFFFF" verticalAlign="middle" textAlign="center"/>
+	<e:Image id="iconDisplay" horizontalCenter="0" verticalCenter="0"/>
+</e:Skin>

@@ -1,0 +1,9 @@
+{
+  "autoGenerateExmlsList": false,
+  "exmls": [
+    "resource/eui_skins/LoadingSkin.exml"
+  ],
+  "skins": {
+    "Game.LoadingSkin": "resource/eui_skins/LoadingSkin.exml"
+  }
+}
